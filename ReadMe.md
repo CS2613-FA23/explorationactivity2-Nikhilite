@@ -50,6 +50,8 @@ This program is a basic demonstration of how to use NLP  techniques to analyze t
 >Enter a sentence: The quick brown fox jumps over the lazy dog. UTCS AI-Lab is an artificial intelligence research lab.
 
 **Sample Output(TEXT):**
+
+
 ![alt text](https://github.com/CS2613-FA23/explorationactivity2-Nikhilite/blob/main/Output/TEXT.png)
 
 **Sample Output(Speech):**
